@@ -1,0 +1,2 @@
+Learn Deep Learning from tensoflow
+Tutorials from official guideline and run my programs on google colab
